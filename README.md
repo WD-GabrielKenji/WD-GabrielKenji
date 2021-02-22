@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello my name is Gabriel Kenji Poli Ozaki, I am a student of Computer Science and I intend to professionalize myself in the area of Web Development 👋
 
-<!--
-**WD-GabrielKenji/WD-GabrielKenji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📖 Description:
+- 💻 I'm looking to become a professional in web development; / I am encouraged to become a Full Stack professional in web development;
+- 🤓 I am studying Computer Science at Universidade São Judas Tadeu - Butantã, São Paulo;
+- 🖥️ I am currently improving my learning in Web development;
+- ℹ️ Link LinkedIn: https://www.linkedin.com/in/wdkenji/
+- 📫 How to reach me: Email: g.kenjiJS@hotmail.com
+- 📲 Contact phone: +55 (011) 99466-8097
+- 📍 São Paulo - Zona Sudoeste;
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Descriptive Phrase: knowing the hammer every problem turns into a nail!
