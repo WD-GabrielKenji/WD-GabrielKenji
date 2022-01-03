@@ -19,7 +19,7 @@
 
 <p align="jusfity"> Gabriel Kenji Poli Ozaki, estudante de Ciência da Computação na Universidade São Judas Tadeu, é uma pessoa muito dedicada com suas metas e ambiciosa por seus sonhos. Uma palavra que não existe em seu vocabulário é “Desistir”. Seu bom humor e positividade ajudam não só a si mesmo, mas também a todos que estão ao seu redor. </p>
 
-<p align="justify"> Começou com Desenvolvimento Web no início de 2020 e possui conhecimentos sobre as linguagens HTML5, CSS, JavaScript, TypeScript, também possui conhecimentos sobre os frameworks Bootstrap, React e Angula, juntamente com os softwares Node.js e Next.js, e o banco de dados do MongoDB. </p>
+<p align="justify"> Começou com Desenvolvimento Web no início de 2020 e possui conhecimentos sobre as linguagens HTML5, CSS/SASS, JavaScript, TypeScript, também possui conhecimentos sobre os frameworks Bootstrap, ReactJs e NextJs, juntamente com os softwares Node.js, e o banco de dados do MongoDB e Firebase. </p>
 
 <p align="justify"> Além disso, as Soft Skills que se destacam em Gabriel são seu pensamento crítico, comunicação e organização, tem facilidade em trabalhos em equipe e individual. Sempre em foco de cumprir o objetivo desejado, está disposto a aprender coisas novas e ajudar no desenvolvimento do grupo. </p>
     
@@ -51,6 +51,8 @@
 
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
+<img align="left" alt="sass" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+    
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png"/>
 
 <img align="left" alt="TypeScript" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png"/>
