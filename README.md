@@ -1,6 +1,6 @@
 ## :rocket: <strong> Perfil: </strong>
 
-<p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, sou estudante de Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
+<p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, formado em Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
 
 <div align="right">
 
@@ -17,11 +17,11 @@
 
 <br>
 
-<p align="jusfity"> Gabriel Kenji Poli Ozaki, estudante de Ciência da Computação na Universidade São Judas Tadeu, é uma pessoa muito dedicada com suas metas e ambiciosa por seus sonhos. Uma palavra que não existe em seu vocabulário é “Desistir”. Seu bom humor e positividade ajudam não só a si mesmo, mas também a todos que estão ao seu redor. </p>
+<p align="jusfity"> Gabriel Kenji Poli Ozaki, recém formado em Ciência da Computação na Universidade São Judas Tadeu, é uma pessoa muito dedicada com suas metas e ambiciosa por seus sonhos. Uma palavra que não existe em seu vocabulário é “Desistir”. Seu bom humor e positividade ajudam não só a si mesmo, mas também a todos que estão ao seu redor. </p>
 
-<p align="justify"> Começou com Desenvolvimento Web no início de 2020 e possui conhecimentos sobre as linguagens HTML5, CSS/SASS, JavaScript, TypeScript, também possui conhecimentos sobre os frameworks Bootstrap, ReactJs e NextJs, juntamente com os softwares Node.js, e o banco de dados do MongoDB e Firebase. </p>
+<p align="justify"> Começou com Desenvolvimento Web no início de 2020 e possui conhecimentos sobre as linguagens HTML5, CSS, JavaScript, TypeScript, também possui conhecimento sobre os frameworks React.js, Next.js, juntamente com o bancos de dados não relacionais do MongoDB, Fauna e Firebase, e por fim com as ferramentas para controle de versões Git(Github) e gerenciamento de pacotes NPM. </p>
 
-<p align="justify"> Além disso, as Soft Skills que se destacam em Gabriel são seu pensamento crítico, comunicação e organização, tem facilidade em trabalhos em equipe e individual. Sempre em foco de cumprir o objetivo desejado, está disposto a aprender coisas novas e ajudar no desenvolvimento do grupo. </p>
+<p align="justify"> Além disso, as Soft Skills que se destacam em Gabriel é sua criatividade, pensamento crítico, comunicação e organização, tendo facilidade em trabalhos em equipe e individual. Sempre em foco de cumprir o objetivo desejado, está disposto a aprender coisas novas e ajudar no desenvolvimento do grupo. </p>
     
 </details>
 
@@ -29,13 +29,13 @@
 
 - :boy: Meu nome é Gabriel Kenji Poli Ozaki, sou computer scientist e tenho 20 anos.
 
-- 🤓 Estou cursando Ciência da Computação na Universidade São Judas Tadeu - Butantã, São Paulo;
+- 🤓 Formado em Ciência da Computação na Universidade São Judas Tadeu - Butantã, São Paulo;
 
-- 🖥️ Introduzi na área de Desenvolvimento Web no começo de 2020 e desde então venho focado em aprimorar meus aprendizados, para tornar-se um Web Developer.
+- 🖥️ Introduzi na área de Desenvolvimento Web no começo de 2020 e desde então venho focado em aprimorar meus aprendizados e introduzir na área.
 
 - 📍 Localidade: São Paulo - Zona Sudoeste.
 
-- 📲 Telefone para Contato: +55 (011) 99466-8097
+- 📲 Telefone para Contato: +55 (11) 9 9466-8097
 
 - 💬 Frase Descritiva: Conhecendo o martelo, todo problema se transforma em prego!
 
@@ -46,14 +46,14 @@
 <img align="left" alt="React" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 
 <img align="left" alt="nextjs" width="36px" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"/>    
-    
-<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png"/>
 
 <img align="left" alt="HTML5" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 
 <img align="left" alt="CSS3" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
 
 <img align="left" alt="sass" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"/>
+
+<img align="left" alt="Bootstrap" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/bootstrap/bootstrap.png"/>
     
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/javascript/javascript.png"/>
 
