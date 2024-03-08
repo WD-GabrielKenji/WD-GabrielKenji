@@ -1,6 +1,6 @@
 ## :rocket: <strong> Perfil: </strong>
 
-<p align="justify">Olá, me chamo Gabriel Kenji Poli Ozaki, formado em Ciência da Computação e pretendo me profissionalizar na área de Desenvolvimento Web! Atingindo sempre meus objetivos e entregando sempre resultados de excelentes qualidades! </p>
+<p align="justify">Olá, sou Gabriel Kenji Poli Ozaki, graduado em Ciência da Computação, e pretendo me especializar em Desenvolvimento Web. Atingindo os meus objetivos e entregando resultados de extrema qualidade. </p>
 
 <div align="right">
 
@@ -17,11 +17,11 @@
 
 <br>
 
-<p align="jusfity"> Gabriel Kenji Poli Ozaki, recém formado em Ciência da Computação na Universidade São Judas Tadeu, é uma pessoa muito dedicada com suas metas e ambiciosa por seus sonhos. Uma palavra que não existe em seu vocabulário é “Desistir”. Seu bom humor e positividade ajudam não só a si mesmo, mas também a todos que estão ao seu redor. </p>
+<p align="jusfity"> Gabriel Kenji Poli Ozaki, recém-formado em Ciência da Computação pela Universidade São Judas Tadeu, é uma pessoa bastante determinada com as suas metas e ambiciosa a seus objetivos. Um termo que não está no seu vocabulário é "desistir". Seu carisma e perseverança não se limitam a si, mas também a todos que estão ao seu redor. </p>
 
-<p align="justify"> Começou com Desenvolvimento Web no início de 2020, e atualmente desenvolve o Front-end em aplicações voltadas ao uso de frameworks JavaScript (principalmente React.js e Next.js), efetuando a criação de interfaces responsivas e simulando API. </p>
+<p align="justify"> Iniciou-se o desenvolvimento web no início de 2020. Atualmente, aplica-se o desenvolvimento de Front-end em aplicações que requeiram o uso de frameworks JavaScript (especialmente React.js e Next.js), criando interfaces responsivas e simulando APIs funcionais. </p>
 
-<p align="justify"> Além disso, as Soft Skills que se destacam em Gabriel é sua criatividade, pensamento crítico, comunicação e organização, tendo facilidade em trabalhos em equipe e individual. Sempre em foco de cumprir o objetivo desejado, está disposto a aprender coisas novas e ajudar no desenvolvimento do grupo. </p>
+<p align="justify"> Além disso, as Soft Skills que se destacam em Gabriel é sua criatividade, pensamento crítico, comunicação e organização, tendo facilidade em trabalhos em equipe e individual. Sempre concentrado em atingir o objetivo desejado, está disposto a aprender coisas novas e contribuir para o progresso do grupo. </p>
     
 </details>
 
