@@ -1,6 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=24F7A4&center=true&vCenter=true&random=false&width=435&lines=Ol%C3%A1%2C+sou+Gabriel+Kenji+Poli+Ozaki+%F0%9F%91%8B%F0%9F%8F%BD)](https://git.io/typing-svg)
+---
+
 ## :rocket: <strong> Perfil: </strong>
 
-<p align="justify">Olá, sou Gabriel Kenji Poli Ozaki, graduado em Ciência da Computação, e pretendo me especializar em Desenvolvimento Web. Atingindo os meus objetivos e entregando resultados de extrema qualidade. </p>
+<p align="justify">Gabriel Kenji Poli Ozaki é formado em Ciência da Computação e, atualmente, atua na área de Desenvolvimento Web Front-end. Atingindo seus objetivos e entregando resultados de extrema qualidade. </p>
 
 <div align="right">
 
