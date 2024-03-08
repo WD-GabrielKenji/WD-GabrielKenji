@@ -27,11 +27,13 @@
 
 ## 📖 Breve Descrição:
 
-- :boy: Meu nome é Gabriel Kenji Poli Ozaki, sou computer scientist e tenho 22 anos.
+- :boy: Sou Gabriel Kenji Poli Ozaki, sou cientista da computação e tenho 23 anos.
 
-- 🤓 Formado em Ciência da Computação na Universidade São Judas Tadeu - Butantã, São Paulo;
+- 👨🏼‍🎓 Formado em Ciência da Computação na Universidade São Judas Tadeu - Butantã, São Paulo;
 
-- 🖥️ Introduzi na área de Desenvolvimento Web no começo de 2020 e desde então venho focado em mnter sempre atualizado.
+- 👨‍💻 Formado em Desenvolvimento Front-end (turma 2021 e 2023) pela Rocketseat.
+
+- 🖥️ Ingressei na área de Desenvolvimento Web no início de 2020. Desde então, tenho me concentrado em manter-me atualizado ao mercado.
 
 - 📍 Localidade: São Paulo - Zona Sudoeste.
 
